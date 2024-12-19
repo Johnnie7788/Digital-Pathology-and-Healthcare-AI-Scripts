@@ -50,7 +50,7 @@ This repository is designed for:
 To explore and use the scripts in this repository:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Digital-Pathology-and-Healthcare-AI.git
+   git clone https://github.com/Johnnie7788/Digital-Pathology-and-Healthcare-AI-Scripts
    ```
 2. Install the required dependencies listed in the `requirements.txt` file:
    ```bash
