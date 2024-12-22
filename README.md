@@ -91,4 +91,5 @@ We invite you to explore, adapt, and contribute to this repository. Whether you 
 
 ## Contact
 For any inquiries, collaborations, or feedback, please reach out:  
+  John Johnson Ogbidi
 **Email**: johnjohnsonogbidi@gmail.com  
